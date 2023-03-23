@@ -7,3 +7,6 @@ Estudiante D: Implemente un metodo que
 4. Implemente la suma de matrices y resta por medio del metodo _ _ add_ _ y _ _ sub_ _
 
 Si se pide que construya una clase que pueda hacer algo, debe implementar un ejemplo de uso ene l codigo.
+
+# Punto 1. Una matriz que recibe una lista de lista
+Como en este proceso y codigo largo no corria el programa, procedi a buscar una solucion, a lo cual haye un metodo mas sencillo y corto y el cual si corria el codigo :D en la parte inicial de definir la matriz 
